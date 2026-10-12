@@ -1,0 +1,10 @@
+# derleme çıktıları
+*.exe
+*.test
+*.out
+
+# önizleme geçici dosyaları
+frame.raw
+frame.json
+widths.json
+shots/
